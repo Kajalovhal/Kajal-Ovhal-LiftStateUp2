@@ -1,0 +1,40 @@
+.Parent {
+  padding: 5px;
+  justify-content: center;
+  width: 50%;
+  background-color: rgb(5, 67, 67);
+  color: white;
+}
+.Fld-input {
+  display: flex;
+  gap: 10px;
+}
+.Child {
+  background-color: rgb(14, 162, 162);
+  color: black;
+  margin: 5px;
+}
+h4,
+h3 {
+  text-decoration: underline;
+  text-align: center;
+  font-size: larger;
+}
+.Child ul {
+  list-style-type: none;
+  gap: 12px;
+}
+.Child li span {
+  padding: 5px;
+}
+.Child button {
+  font-weight: 200;
+  margin: 5px;
+  margin-left: 10px;
+  border-radius: 5%;
+  border: 0;
+}
+.Child button:hover {
+  background-color: black;
+  color: white;
+}
