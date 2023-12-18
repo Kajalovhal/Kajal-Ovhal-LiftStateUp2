@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LiftStateUp2/static/css/main.d071aea3.css",
+    "main.js": "/LiftStateUp2/static/js/main.f925cc05.js",
+    "index.html": "/LiftStateUp2/index.html",
+    "main.d071aea3.css.map": "/LiftStateUp2/static/css/main.d071aea3.css.map",
+    "main.f925cc05.js.map": "/LiftStateUp2/static/js/main.f925cc05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d071aea3.css",
+    "static/js/main.f925cc05.js"
+  ]
+}
